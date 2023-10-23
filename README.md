@@ -11,5 +11,7 @@ This method is a result of a research project, without warranties of any kind. T
 
 # AUTHOR
 Izabela Bujak-Ozga 1,2
+
 1 EPF Lausanne, School of Architecture, Civil and Environmental Engineering, Lausanne, Switzerland
+
 2 Swiss Federal Institute for Forest, Snow and Landscape Research (WSL), Mountain Hydrology and Mass Movements, Birmensdorf, Switzerland
