@@ -1,4 +1,4 @@
-# ConsEntuAl State Estimation method
+# ConsEntuAl State Estimation method [![DOI](https://zenodo.org/badge/639018280.svg)](https://zenodo.org/doi/10.5281/zenodo.10035125)
 Method sources are in the cease_v0.8/ folder. 
 
 Check the file `input_format` to learn about the expected format of input data. Check 'run_model.R' for instructions on how to run the CEASE method. 
