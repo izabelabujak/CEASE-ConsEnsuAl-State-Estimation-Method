@@ -1,0 +1,11 @@
+export(predict_reach_state)
+export(predict_stream_fdnl)
+export(predict_stream_fdnl_for_interval)
+export(calculate_threshold)
+export(calculate_thresholds)
+export(evaluate)
+export(MIN_THRESHOLD_VALUE)
+export(MAX_THRESHOLD_VALUE)
+
+importFrom(tidyr,pivot_wider)
+importFrom(dplyr,"%>%")

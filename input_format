@@ -1,0 +1,24 @@
+> head(stream_reaches)
+```
+  location_id length
+1         EX1  60.20
+2        EX10  08.04
+...
+```
+
+> head(stream_observations)
+```
+  location_id         observed_at    state water_level sensor
+1         EX1 2021-08-06 10:21:58     flow      18.890    X1
+2         EX1 2021-08-06 10:21:58  no_flow       9.320    X2
+...
+```
+
+> head(sensors_measurements)
+```
+              observed_at    X1   X2    X3   X4    X5    X6  
+10000 2021-07-08 04:25:00 25.78 9.98  9.95 8.54 10.65 10.18 
+10001 2021-07-08 04:30:00 25.63 9.88  9.93 8.59 10.60 10.13
+...
+```
+

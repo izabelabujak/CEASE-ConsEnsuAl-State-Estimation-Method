@@ -1,0 +1,19 @@
+Package: cease
+Type: Package
+Title: ConsEntuAl State Estimation model - prediction of intermittent stream states
+Version: 0.8.0
+Author: Izabela Bujak
+Maintainer: Izabela Bujak <izabela.bujak@epfl.ch>
+Description: Model for predicting the stream state of intermittent streams based on manual surveys and water level / flow sensor
+License: CC BY-NC
+Encoding: UTF-8
+LazyData: true
+Depends: 
+    R (>= 3.50)
+Imports: 
+    RMySQL (>= 0.10),
+    tidyr (>= 1.2),
+    dplyr
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
